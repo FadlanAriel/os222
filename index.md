@@ -9,7 +9,6 @@
 <hr>
 I am {{ site.author }} and this is {{ site.title }}.
 <hr>
-<hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
