@@ -21,3 +21,8 @@ ZCZC W01 90 L11 Assignment #01
 ZCZC W01 30 L11 Assignment #01
 ZCZC W02 10 L41 TXT/mylog.txt relate
 >>>>>>> f972b57 (update mylog.txt)
+ZCZC W02 90 L02 ZOOM
+ZCZC W02 70 L12 Assignment #02
+ZCZC W02 90 L02 ZOOM
+ZCZC W02 40 L26 GnuPG, Key-gen
+ZCZC W02 50 L12 Assignment #02
