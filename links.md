@@ -22,6 +22,12 @@ This is a quick but useful guide to Regular Expression or regex. I recommend thi
 3. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)<br>
 This is a cheatsheet for Markdown or md. This is what helped me create my index and links page. It is pretty short but it is really useful.
 
+4. [What is Cybersecurity? by IBM](https://www.ibm.com/topics/cybersecurity)<br>
+It is an article by IBM about cybersecurity. It explains some myths around cybersecurity, common cyber threats, and many more.
+
+5. [Internal and External Fragmentation Difference](https://www.tutorialspoint.com/difference-between-internal-fragmentation-and-external-fragmentation)<br>
+A short summary about the difference between internal and external fragmentations
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}[fadlanariel](https://github.com/fadlanariel) --- Version: {{ site.version }}.
