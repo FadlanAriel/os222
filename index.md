@@ -4,7 +4,7 @@
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
 [TARBALL](SandBox/fadlanariel.tar.bz2) ---
 [GITHUB]({{ site.githublink }})
 <br>
