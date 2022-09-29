@@ -27,3 +27,7 @@ ZCZC W03 100 L02 ZOOM
 ZCZC W03 60 L13 Assignment #03
 ZCZC W03 100 L00 In person class
 ZCZC W03 45 L13 Assignment #03
+ZCZC W04 120 L02 ZOOM
+ZCZC W04 30 L14 Assignment #4
+ZCZC W04 100 L00 In Person Class
+ZCZC W04 45 L14 Assignment #4

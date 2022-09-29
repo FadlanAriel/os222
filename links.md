@@ -22,11 +22,17 @@ This is a quick but useful guide to Regular Expression or regex. I recommend thi
 3. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)<br>
 This is a cheatsheet for Markdown or md. This is what helped me create my index and links page. It is pretty short but it is really useful.
 
-4. [What is Cybersecurity? by IBM](https://www.ibm.com/topics/cybersecurity)<br>
+4. [Nano Editor Fundamentals](https://www.youtube.com/watch?v=gyKiDczLIZ4)<br>
+A video about every basic thing you need to know about nano. I use nano as an editor because I think it is easier to use.
+
+5. [What is Cybersecurity? by IBM](https://www.ibm.com/topics/cybersecurity)<br>
 It is an article by IBM about cybersecurity. It explains some myths around cybersecurity, common cyber threats, and many more.
 
-5. [Internal and External Fragmentation Difference](https://www.tutorialspoint.com/difference-between-internal-fragmentation-and-external-fragmentation)<br>
+6. [Internal and External Fragmentation Difference](https://www.tutorialspoint.com/difference-between-internal-fragmentation-and-external-fragmentation)<br>
 A short summary about the difference between internal and external fragmentations
+
+7. [Pointers in C Language](https://www.javatpoint.com/c-pointers#:~:text=The%20pointer%20in%20C%20language,a%20pointer%20is%202%20byte.)<br>
+A summary of everything you need to know about pointers in c language. It is not too complicated and easy to understand. 
 
 <br>
 <hr>
