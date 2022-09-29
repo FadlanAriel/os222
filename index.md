@@ -4,9 +4,9 @@
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
+[LOG](TXT/mylog.txt) ---
 [TARBALL](SandBox/fadlanariel.tar.bz2) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/fadlanariel/os222/)
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}[fadlanariel](https://github.com/fadlanariel).
@@ -14,6 +14,6 @@ This is {{ site.title }} and I am {{ site.author }}[fadlanariel](https://github.
 This is the way!
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }}[fadlanariel](https://github.com/fadlanariel) --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }}[fadlanariel](https://github.com/fadlanariel) --- 
 <hr>
 <br>
