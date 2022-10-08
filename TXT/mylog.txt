@@ -31,3 +31,12 @@ ZCZC W04 120 L02 ZOOM
 ZCZC W04 30 L14 Assignment #4
 ZCZC W04 100 L00 In Person Class
 ZCZC W04 45 L14 Assignment #4
+ZCZC W05 100 L02 ZOOM
+ZCZC W05 30 L10 Assignment #0
+ZCZC W05 100 L00 In person class
+ZCZC W05 60 L11 Assignment #1
+ZCZC W05 20 L12 Assignment #2
+ZCZC W05 15 L13 Assignment #3
+ZCZC W05 50 L14 Assignment #4
+ZCZC W05 15 L15 Assignment #5
+
