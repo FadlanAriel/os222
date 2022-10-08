@@ -34,6 +34,12 @@ A short summary about the difference between internal and external fragmentation
 7. [Pointers in C Language](https://www.javatpoint.com/c-pointers#:~:text=The%20pointer%20in%20C%20language,a%20pointer%20is%202%20byte.)<br>
 A summary of everything you need to know about pointers in c language. It is not too complicated and easy to understand. 
 
+8. [What is Virtual Memory?](https://www.youtube.com/watch?v=2quKyPnUShQ&ab_channel=AndroidAuthority)<br>
+An explanation about what is virtual memory wrapped in a 11 minutes video.
+
+9. [Virtual memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This article describes what is virtual memory in the scope of operating systems. There is a lot of content and information in this short article.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}[fadlanariel](https://github.com/fadlanariel) --- Version: {{ site.version }}.
