@@ -13,6 +13,8 @@ permalink: LINKS/
 
 # LINKS
 
+---
+
 1. [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc)<br>
 This is a beginners guide and tutorial for Vim. You could learn how to use Vim here.
 
@@ -39,6 +41,10 @@ An explanation about what is virtual memory wrapped in a 11 minutes video.
 
 9. [Virtual memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 This article describes what is virtual memory in the scope of operating systems. There is a lot of content and information in this short article.
+
+10. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This is an article that explain what fork() is and how to use it in C language. This really helps me to understand it in a pretty short time.
+
 
 <br>
 <hr>
