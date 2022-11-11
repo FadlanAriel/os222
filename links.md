@@ -34,7 +34,7 @@ It is an article by IBM about cybersecurity. It explains some myths around cyber
 A short summary about the difference between internal and external fragmentations
 
 7. [Pointers in C Language](https://www.javatpoint.com/c-pointers#:~:text=The%20pointer%20in%20C%20language,a%20pointer%20is%202%20byte.)<br>
-A summary of everything you need to know about pointers in c language. It is not too complicated and easy to understand. 
+A summary of everything you need to know about pointers in c language. It is not too complicated and easy to understand.
 
 8. [What is Virtual Memory?](https://www.youtube.com/watch?v=2quKyPnUShQ&ab_channel=AndroidAuthority)<br>
 An explanation about what is virtual memory wrapped in a 11 minutes video.
@@ -44,6 +44,12 @@ This article describes what is virtual memory in the scope of operating systems.
 
 10. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 This is an article that explain what fork() is and how to use it in C language. This really helps me to understand it in a pretty short time.
+
+11. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+An article that introduce what a deadlock is in context of operating systems. It explains deadlock in a short but informative way, also a youtube video is present for further explanantion.
+
+12. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
+This article explains what process synchronization is. It also explain how process synchronization works and also the sections that are present in a program.
 
 
 <br>
