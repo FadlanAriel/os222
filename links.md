@@ -51,8 +51,11 @@ An article that introduce what a deadlock is in context of operating systems. It
 12. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
 This article explains what process synchronization is. It also explain how process synchronization works and also the sections that are present in a program.
 
-13. [Linux From Scratch v11.2] (https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
+13. [Linux From Scratch v11.2](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
 This is the official guide for LFS version 11.2.
+
+14. [Kernotex LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This is a playlist that you can watch and follow to understand more about LFS if you are to confused and overwhelmed with the book.
 
 
 <br>
